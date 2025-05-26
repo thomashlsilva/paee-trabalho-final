@@ -1,2 +1,2 @@
 ## Créditos
-- Os scripts em `scripts-externos/` foram originalmente desenvolvidos por [@CarlossShi](https://github.com/CarlossShi) no repositório [tsp-meta-heuristic](https://github.com/CarlossShi/tsp-meta-heuristic/), licenciados sob [MIT](scripts-externos\LICENSE).
+- Os scripts em `scripts-externos/` foram originalmente desenvolvidos por [@CarlossShi](https://github.com/CarlossShi) no repositório [tsp-meta-heuristic](https://github.com/CarlossShi/tsp-meta-heuristic/), licenciados sob [MIT](scripts-externos/LICENSE).
